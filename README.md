@@ -32,7 +32,7 @@ Before running the code in this project, ensure you have the following dependenc
 1. Clone this GitHub repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/mnist-neural-network-classification.git
+git clone https://github.com/ArpanBiswas99/MNIST-neural-network-classification.git
 ```
 
 2. Navigate to the project directory:
@@ -44,10 +44,11 @@ cd mnist-neural-network-classification
 3. Run the provided Python script to train and evaluate the models:
 
 ```bash
-python mnist_classification.py
+jupyter notebook "\MNIST neural network classification\notebooks\MNIST Digit Classification.ipynb"
+
 ```
 
-4. You can customize the hyperparameters, model architecture, and other settings within the `mnist_classification.py` script to experiment with different configurations.
+4. You can customize the hyperparameters, model architecture, and other settings within the `MNIST Digit Classification.ipynb` script to experiment with different configurations.
 
 ## Training and Evaluation
 
